@@ -17,4 +17,4 @@ Estou buscando conhecimento para ingressar na área de desenvolvimento. Possuo c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluizribeiro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroluizribeiro&repo=portifolio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroluizribeiro&repo=portifolio&theme=radical)](https://github.com/pedroluizribeiro/portifolio)
